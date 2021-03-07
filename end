@@ -1,0 +1,24 @@
+[33mcommit 8ad8ad1fd7a68293948c31400c56dd65d03cf0c9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: SKR <chevy_azul@hotmail.com>
+Date:   Sun Mar 7 09:12:18 2021 -0600
+
+    cambio 3
+
+[1mdiff --git a/curso.html b/curso.html[m
+[1mindex 56efbdb..ba0221b 100644[m
+[1m--- a/curso.html[m
+[1m+++ b/curso.html[m
+[36m@@ -3,10 +3,10 @@[m
+ <head>[m
+     <meta charset="UTF-8">[m
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <meta name="viewport" content="width=h1, initial-scale=1.0">[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    [m
+[32m+[m[32m    <h1>Curso git</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
